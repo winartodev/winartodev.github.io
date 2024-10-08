@@ -2,22 +2,22 @@
   "Data": [
     {
       "Material": 40172300,
-      "MaterialDescription": "LAP_WINF_BLUE-_25.0_TRIPL_NTS_B",
+      "MaterialDescription": "LAP",
       "StorageBin": "BIK1-3D1X1",
       "Batch": "",
-      "AvailableStock": 40,
+      "AvailableStock": 4,
       "BaseUnitOfMeasure": "EA",
       "StockCategory": "S",
       "StorageLocation": "A101",
       "StorageType": "RS5",
       "StorageUnit": 189981271122440580,
       "LastMovement": "09/09/2024",
-      "AvailableStockInW": "40,000",
+      "AvailableStockInW": "45,000",
       "WarehouseUoM": "TH",
       "GrDate": "17/07/2024",
       "SledOrBbd": "19/06/2025",
       "Plant": "ID23",
-      "MaterialGroup": "ZWM500083"
+      "MaterialGroup": "ZFG111000"
     }
   ],
   "Error": ""
