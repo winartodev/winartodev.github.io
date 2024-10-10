@@ -1,0 +1,7670 @@
+[
+  {
+    "MaterialCode": 40000038,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40000040,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40000056,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40000057,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40000295,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40000456,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40004506,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40004507,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40007221,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40014080,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40019531,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40019617,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40021871,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40022034,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40022040,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40022128,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40022129,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40022309,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40022340,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40022425,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40023300,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40026769,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40026783,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40026892,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40026934,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40029246,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40029749,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40031227,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40031819,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40037051,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40037118,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40037127,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40037128,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40037130,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40040543,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40040943,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40043186,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40043526,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40043546,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40044025,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40044555,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045172,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045174,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045181,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045184,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045199,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045219,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045238,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045268,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045325,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045460,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045534,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045596,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045678,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045691,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40045779,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40046479,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40046569,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40046586,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40046625,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40046887,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40047633,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40048864,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40049586,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40049595,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40049650,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40049966,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40049988,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40049997,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40050057,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40050116,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40050700,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40050701,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40051234,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40051323,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40051359,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40052383,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40053270,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40053306,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40053327,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40053340,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40053593,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40053594,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40053603,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40053641,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40054533,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40055390,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40055434,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40055517,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40055558,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40055591,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40056423,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40057083,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40057207,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40059138,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40060433,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40060469,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40060478,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061139,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061248,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061273,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061526,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061537,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061893,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061911,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061914,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061923,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061928,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061929,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061944,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061960,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061979,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40061984,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40062007,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40062015,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40062016,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40062350,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40062465,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063071,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063802,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063841,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063862,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063883,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063888,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063890,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063901,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063902,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063910,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063911,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063918,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063930,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063938,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063947,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063948,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063957,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063966,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063967,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063969,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063975,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063977,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063987,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063996,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063997,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40063998,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064005,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064006,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064025,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064342,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064376,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064393,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064398,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064403,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064418,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064436,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064496,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064497,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064505,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064515,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40064535,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40065083,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40066855,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40066956,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40067457,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40067458,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40068631,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40068652,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40068664,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40068833,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40068901,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40068920,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40068960,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40068991,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40069000,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40069011,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40069023,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40069068,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40069076,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40069286,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072028,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072393,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072394,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072423,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072462,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072470,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072472,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072482,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072492,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072500,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072503,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072504,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072507,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072519,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072520,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072528,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072530,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072540,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072541,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072555,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072557,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072567,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072575,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072606,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072607,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40072635,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40073638,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40073867,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40073938,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40074150,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40075586,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40075588,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40075673,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40075714,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40079451,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40079804,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40080970,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40080977,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40082453,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40082487,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40082589,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40082928,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40083014,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40083029,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40083319,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40083385,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40083473,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40083552,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40083911,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40085282,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40085502,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40085750,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40085758,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40085783,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40085971,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40086009,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40086036,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40086052,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40086489,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40087762,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40088760,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40090032,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40090160,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40090266,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40090351,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40090369,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40090445,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40090943,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40091154,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40091409,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40091985,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40092492,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40092643,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40092663,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40092786,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093035,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093091,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093161,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093180,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093181,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093252,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093267,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093293,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093343,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093386,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093405,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40093519,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40094014,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40094442,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40094831,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40094962,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40095083,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40095318,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40095347,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40095403,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40095693,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40095711,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40095987,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40097212,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40097329,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40097354,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40097713,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40097780,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40097911,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40100741,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40100750,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40100828,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40101367,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40101529,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40101537,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40101561,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40102507,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40102570,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40102700,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40102801,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40103280,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40104223,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40104558,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40104848,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40105583,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40105622,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40105643,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40105644,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40105693,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40105712,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40106160,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40106240,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40108584,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40109412,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40109880,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110450,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110459,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110517,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110527,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110536,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110546,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110588,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110607,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110752,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110814,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110834,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110853,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110904,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110909,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110978,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40110996,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40111021,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40111076,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40111077,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40112863,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40112903,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40113154,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40113182,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40113261,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114294,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114368,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114383,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114403,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114436,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114561,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114758,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114872,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40114922,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40115021,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40115274,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40115903,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117054,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117131,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117132,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117150,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117170,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117171,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117181,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117182,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117183,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117217,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117223,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117236,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117238,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117239,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117255,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117259,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117261,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117262,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117263,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117275,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117277,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117287,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117326,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117893,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117919,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40117921,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40118090,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40118363,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40118389,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40118437,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40118458,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40118627,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119334,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119411,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119445,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119474,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119521,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119522,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119550,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119599,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40119605,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40120120,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40120484,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40122053,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40122536,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40123143,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40123276,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124126,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124587,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124642,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124721,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124722,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124731,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124749,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124750,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124761,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124764,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124792,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124795,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124814,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124827,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124836,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40124964,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40125096,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40125107,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40126324,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40126369,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40126408,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40126574,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40126868,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40127077,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40127105,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40127250,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40127286,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40127618,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40129691,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40129921,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40129982,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130003,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130076,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130090,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130115,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130117,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130177,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130208,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130209,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130215,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130257,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40130295,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40132033,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40132042,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40132391,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40132486,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40134024,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40134422,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40135095,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40136080,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40136234,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40136243,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40136245,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40137073,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40138174,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40138821,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40138935,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40138937,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40138939,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139039,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139050,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139133,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139144,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139145,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139149,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139304,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139310,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139325,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40139555,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140097,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140098,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140101,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140102,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140106,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140188,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140192,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140917,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40140923,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141048,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141049,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141051,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141052,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141507,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141508,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141512,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141514,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141591,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141594,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141602,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141610,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40141619,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142003,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142023,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142410,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142422,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142423,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142424,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142631,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142632,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142640,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142642,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40142643,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145260,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145277,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145497,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145802,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145814,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145822,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145825,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145831,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145835,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145836,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145842,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145855,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40145857,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147234,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147331,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147363,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147527,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147574,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147615,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147619,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147866,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40147924,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40148475,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40148857,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40148889,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40148905,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149127,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149438,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149447,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149448,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149458,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149473,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149474,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149610,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149751,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149764,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149829,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149831,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149833,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149848,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149852,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149853,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149855,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149856,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149857,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149871,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40149897,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40150250,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40150740,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151202,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151209,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151211,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151218,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151224,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151227,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151230,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151231,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151235,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151238,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151239,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151245,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151249,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151250,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151256,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151257,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151275,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151294,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151295,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151304,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151305,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151310,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151314,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151316,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151319,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151320,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151322,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151325,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151330,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151331,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151334,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151341,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151342,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151349,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151351,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151363,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151366,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151377,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151385,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151386,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151387,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151388,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151404,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151432,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151433,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151434,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151436,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151445,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151446,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151447,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151457,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151465,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40151468,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40152078,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40152105,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40152139,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40152147,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40152194,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40152202,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40152495,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40153482,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154174,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154190,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154192,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154206,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154235,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154380,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154394,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154406,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154519,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40154949,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155161,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155373,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155382,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155536,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155638,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155677,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155697,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155713,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155714,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155718,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155724,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155725,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155729,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155738,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155747,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155753,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155761,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155770,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155773,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155776,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155838,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155839,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40155969,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156014,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156041,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156042,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156059,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156137,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156500,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156501,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156580,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156606,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156607,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156696,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156715,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156741,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156742,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156765,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156833,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156960,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156973,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156981,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40156992,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157024,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157030,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157031,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157038,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157039,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157050,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157053,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157055,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157061,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157966,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40157975,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40159231,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40159889,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40159911,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160113,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160114,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160124,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160132,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160134,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160146,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160147,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160152,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160155,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160248,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160272,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160276,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160277,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160281,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160292,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160294,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160322,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160364,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160380,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160384,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160395,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160400,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160413,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160415,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160422,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160429,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160879,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160880,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160889,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160899,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160905,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160906,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40160907,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161044,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161050,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161055,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161056,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161102,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161113,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161126,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161330,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161331,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161337,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161359,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161360,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161386,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161494,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161583,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161587,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161589,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161596,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161598,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161606,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161839,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40161859,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162182,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162206,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162220,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162253,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162295,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162553,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162560,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162712,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162728,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40162889,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163294,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163304,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163324,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163345,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163553,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163561,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163938,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163965,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40163966,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40164133,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40164147,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40164204,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40164245,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40164562,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40164593,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40164600,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40164844,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165017,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165062,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165063,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165512,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165520,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165522,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165541,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165840,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165850,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165851,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40165857,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40166377,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40166441,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40167553,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40167581,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40167586,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40168220,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40168227,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40168230,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40168682,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40168685,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40168753,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40168756,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40168765,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40169721,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40170299,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40170314,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40170461,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40170482,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40170526,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40171439,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40171459,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40171967,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40171968,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172103,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172121,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172125,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172126,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172128,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172139,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172145,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172727,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172920,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40172941,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173243,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173381,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173383,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173390,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173392,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173396,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173406,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173800,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40173812,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40174005,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40174269,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40174844,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40174856,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40175293,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40175726,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40175836,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40176081,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40176391,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40176415,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40176890,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40176923,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40176931,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40178354,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40178374,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40178407,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40178538,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40178868,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40178877,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40178879,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179480,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179481,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179502,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179505,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179506,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179507,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179508,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179509,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179530,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179531,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179533,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179534,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179540,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179541,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179542,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179543,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179544,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179549,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179550,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179551,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179553,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179554,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179557,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179558,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179560,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179561,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179562,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179565,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179567,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179568,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179576,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179585,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179586,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179587,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179588,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179737,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179920,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179998,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40179999,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180022,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180032,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180093,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180104,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180113,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180117,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180137,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180307,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180324,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180325,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180490,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180610,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180619,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180626,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180627,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180635,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180638,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180661,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180662,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180663,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180664,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180679,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180681,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180682,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180689,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180690,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180691,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180695,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180696,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180697,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180698,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180727,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180755,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180784,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180793,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180797,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180809,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180811,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180819,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180829,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180830,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180831,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180835,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180839,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180843,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180844,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180847,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180848,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180851,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180854,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180860,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180861,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180862,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180875,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180887,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180970,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180986,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40180987,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181062,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181080,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181081,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181082,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181083,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181084,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181087,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181088,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181089,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181090,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181091,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181092,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181095,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181099,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181100,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181101,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181102,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181105,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181110,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181111,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181113,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181114,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181116,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181117,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181125,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181381,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181393,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181402,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181440,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181441,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181442,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181443,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181449,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181460,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181558,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181843,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181866,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40181875,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182550,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182759,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182769,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182779,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182790,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182827,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182835,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182931,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182977,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182978,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182979,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182986,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182987,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40182997,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183006,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183007,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183224,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183243,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183247,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183253,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183261,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183266,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183290,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183329,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40183561,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184403,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184450,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184516,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184522,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184554,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184574,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184595,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184800,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184837,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184846,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184847,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184848,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184902,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40184903,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40185473,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40185484,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40185729,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40185730,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40186166,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40186281,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40186290,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40186299,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40186305,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40186306,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40186307,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40186865,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40187584,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40187599,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40187601,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40187617,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40187625,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40187777,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40188564,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40189333,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40190658,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41801244,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802465,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802477,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802479,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802577,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802781,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802782,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802928,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802975,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41802976,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803007,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803025,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803041,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803043,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803046,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803047,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803048,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803127,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803128,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803152,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41803775,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41804270,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41805129,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41840906,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41840923,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41840953,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41841057,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41841139,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41841209,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41841256,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842233,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842386,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842387,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842388,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842918,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842919,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842950,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842990,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40085898,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41840892,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41840986,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 41842410,
+    "Origin": "Asia"
+  },
+  {
+    "MaterialCode": 40021833,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158184,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158187,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158189,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158192,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158198,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158203,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158207,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158208,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158212,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158213,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158215,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158216,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158221,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158224,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158255,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158421,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40158422,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40161030,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172282,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172283,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172288,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172289,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172292,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172297,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172300,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172330,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172335,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172336,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40172338,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174643,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174644,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174651,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174652,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174655,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174665,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174824,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174831,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174841,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40174846,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177842,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177843,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177850,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177851,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177852,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177853,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177854,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177861,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177868,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177869,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40177870,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 41800120,
+    "Origin": "Europe"
+  },
+  {
+    "MaterialCode": 40002080,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40002081,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40002082,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40002083,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40006930,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40007336,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40007439,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40034844,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40034927,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40036041,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40036147,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40037090,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40038470,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40041744,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40041905,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40042562,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40042579,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40045087,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40047085,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40052115,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40052129,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40054336,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40054688,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40055403,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40055706,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40060461,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40062293,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40062316,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40063102,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40063685,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40068871,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40068927,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40068936,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40068974,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40070076,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40070933,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40070973,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40070996,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40071049,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40071412,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40071538,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40071985,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40075946,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40076181,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40076266,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40076277,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40077275,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40077285,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40077295,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40078869,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40079404,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40080664,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40080722,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40089914,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40090027,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40090038,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40090299,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40090399,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40090548,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40092024,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40092051,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40092052,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40092099,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40093295,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40093954,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40094050,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40095534,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40095654,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40097337,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40098388,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40099047,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40100752,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40100888,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40102580,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40104425,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40105440,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40105500,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40106278,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40106528,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40106986,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40109065,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40109604,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40109908,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40110917,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40110935,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40112328,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40113733,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40114464,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40117853,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40117987,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40119463,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40119479,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40119502,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40119511,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40119512,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40119859,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40120549,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40121725,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40122125,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40123786,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40124461,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40124718,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40125645,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40126313,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40126359,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40126407,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40126426,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40127064,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40127181,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40128722,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40129303,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40129542,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40129553,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40130201,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40130264,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40130300,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40130387,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40130444,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40131232,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40131262,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40131387,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40133841,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40133842,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40133882,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40134904,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40134967,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40135281,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40135308,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40135316,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40135317,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40135367,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40136060,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40136409,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40136593,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140109,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140122,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140123,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140128,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140129,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140131,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140132,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140133,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140135,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140823,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40140925,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40141397,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40141398,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40141399,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40141802,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143008,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143009,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143010,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143011,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143012,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143014,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143015,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143062,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40143132,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144518,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144754,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144785,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144956,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144968,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144980,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144987,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144997,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144998,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40144999,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145007,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145008,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145194,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145204,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145211,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145252,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145253,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145612,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145626,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145639,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145640,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145644,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145646,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145672,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145683,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145684,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145694,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145703,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145705,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145706,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145713,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145718,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145726,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145732,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145734,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145736,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145747,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145753,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145780,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145799,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145808,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145812,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145813,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145815,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145816,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145930,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145983,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145999,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40146005,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40146255,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40146965,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147105,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147184,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147192,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147202,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147206,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147217,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147586,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147610,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147708,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147710,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147723,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147724,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147735,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40147785,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40148066,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149711,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149712,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149713,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149728,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149730,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149744,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149747,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149749,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149750,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149755,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149758,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149760,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149762,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149770,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149774,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149777,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149778,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149781,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149782,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149800,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40149830,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40151251,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40151264,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40151448,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152028,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152035,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152036,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152044,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152045,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152046,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152048,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152054,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152064,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152065,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152068,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152069,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152074,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152076,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152087,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152088,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152093,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152095,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152097,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152099,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152115,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152123,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152124,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152127,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152128,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152129,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152130,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152131,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152135,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152136,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152145,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152150,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152153,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152155,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152156,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152158,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152164,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152167,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152170,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152181,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152188,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152206,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152341,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152373,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152382,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152384,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152414,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152415,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152417,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152423,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152436,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152438,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152439,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152440,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40152447,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153024,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153036,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153052,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153108,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153128,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153142,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153147,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153148,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153151,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153155,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153156,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153159,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153186,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153190,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153193,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153196,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153363,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153394,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153415,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153430,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153444,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153446,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153459,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153465,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153488,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153509,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153518,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153519,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153527,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153581,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153587,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153588,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153590,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153596,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153597,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153598,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153640,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153651,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153653,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153654,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153669,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153671,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153676,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153686,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153692,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153697,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153698,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153707,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153710,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153711,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153715,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153721,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153722,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153723,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153724,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153728,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153729,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153730,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153731,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153732,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153737,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153738,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153739,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153796,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153819,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153820,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153821,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153830,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153831,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153832,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153839,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153840,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40153845,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40154141,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40154198,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40154514,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155126,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155135,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155314,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155336,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155345,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155519,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155520,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155527,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155535,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155681,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155693,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155936,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155964,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155975,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155976,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155985,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40155993,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156015,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156050,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156051,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156066,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156072,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156270,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156328,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156361,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156363,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156374,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156381,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156386,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156387,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156390,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156395,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156402,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156451,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156456,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156470,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156477,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156493,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156510,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156522,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156554,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156564,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156585,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156595,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156660,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156671,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156677,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156680,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156683,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156686,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156689,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156693,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156697,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156708,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156725,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156731,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156732,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156739,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156749,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156750,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156751,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40156753,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157033,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157041,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157042,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157043,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157054,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157063,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157249,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157269,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157280,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157341,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157932,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157943,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157958,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40157959,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40159543,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40159554,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40159558,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40159941,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40160398,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40160416,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40161051,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40161756,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40161840,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40161851,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162207,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162221,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162227,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162261,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162262,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162264,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162269,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162278,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162282,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162285,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162286,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162287,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162288,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162298,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162299,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162305,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162840,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162895,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40162896,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40163360,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40163369,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40163370,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164046,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164056,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164090,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164092,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164094,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164101,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164109,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164125,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164126,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164129,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164136,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164137,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164274,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164315,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164346,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164712,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164724,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164732,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164745,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164746,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164752,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164753,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40164992,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40165357,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40165372,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40165529,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40165864,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40165885,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166326,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166522,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166523,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166524,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166531,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166543,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166544,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166547,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166548,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166594,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40166636,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167141,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167144,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167146,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167156,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167159,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167163,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167164,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167165,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167168,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167170,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167172,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167175,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167176,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167177,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167179,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167186,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167194,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167200,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167201,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167215,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167233,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167234,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167247,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167255,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167256,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167257,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167259,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167265,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167912,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40167927,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40168108,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40168704,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40168739,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40168755,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170086,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170181,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170187,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170272,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170334,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170358,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170359,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170360,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170361,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170362,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170368,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170376,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40170385,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171794,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171828,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171829,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171841,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171842,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171843,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171861,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171863,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171871,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171877,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171924,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171949,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171951,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171953,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171990,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40171991,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172004,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172011,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172012,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172019,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172023,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172024,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172026,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172027,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172028,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172029,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172039,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172052,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172056,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172062,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172063,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172072,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172074,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172079,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172083,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172084,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172087,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172089,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172091,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172097,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172098,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172105,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172108,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172135,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172903,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172918,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172922,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172935,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40172938,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40173242,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40173247,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40173248,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40173250,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40173257,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40173435,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40173615,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40174276,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40174280,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40174830,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40174840,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40174962,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40174986,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175114,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175130,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175136,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175224,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175238,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175239,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175360,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175362,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175368,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175371,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175377,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175486,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175704,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175730,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175737,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175741,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175747,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175757,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175762,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175768,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175769,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175776,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175787,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175811,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175814,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40175835,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40176898,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178071,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178089,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178090,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178116,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178120,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178143,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178151,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178158,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178234,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178240,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178241,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178247,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178248,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178250,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178252,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178253,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178254,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178256,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178266,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178267,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178270,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178275,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178277,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178288,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178303,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178314,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178322,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178325,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178326,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178328,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178329,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178336,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178346,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178347,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178406,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178415,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178543,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178549,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178553,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178557,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178560,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178566,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178568,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178575,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40178883,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40179492,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180804,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180818,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180832,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180850,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180884,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180917,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180918,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180919,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180969,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40180975,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181180,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181232,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181236,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181340,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181368,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181840,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181934,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181950,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181954,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181962,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181972,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181977,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181978,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181980,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181985,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181986,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40181987,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182184,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182200,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182201,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182202,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182203,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182208,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182209,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182223,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182257,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182932,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40182947,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40183021,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40183244,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40183265,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40183291,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40183296,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40183505,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40184016,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40184428,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40184823,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40184824,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40184829,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40184830,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40184845,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40185321,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40185670,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40186625,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40188918,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40189114,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41801036,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41802974,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41802991,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41802997,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803013,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803121,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803155,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803232,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803233,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803771,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803773,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803774,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803776,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803777,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41803995,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41806921,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41822868,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41840988,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41841097,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41841134,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41841135,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41841166,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41841213,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41842444,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41842448,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41842451,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41842466,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41842467,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41842468,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41842887,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41842991,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40061929,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40085883,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145708,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 40145716,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41840882,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41840883,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41840897,
+    "Origin": "Local"
+  },
+  {
+    "MaterialCode": 41841027,
+    "Origin": "Local"
+  }
+]
