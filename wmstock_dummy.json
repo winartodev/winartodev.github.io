@@ -1,24 +1,27 @@
 {
   "Data": [
     {
-      "Material": 10176871,
+      "Material": "10176871",
       "MaterialDescription": "555 GOLD 20/200 KRE RB KOR KRDF",
       "StorageBin": "BIK1-T01B2",
       "Batch": "",
-      "AvailableStock": "240,000",
+      "AvailableStock": "240",
       "BaseUnitOfMeasure": "TH",
       "StockCategory": "",
       "StorageLocation": "A101",
       "StorageType": "BSC",
-      "StorageUnit": 189981811122745760,
-      "LastMovement": "13/09/2024",
-      "AvailableStockInW": "24,000",
+      "StorageUnit": "189981811122745766",
+      "LastMovement": "09-13-24",
+      "AvailableStockInW": "24",
       "WarehouseUoM": "CS",
-      "GrDate": "05/09/2024",
-      "SledOrBbd": "31/08/2025",
+      "GrDate": "09-05-24",
+      "SledOrBbd": "08-31-25",
       "Plant": "ID23",
-      "MaterialGroup": "ZFG100000"
+      "MaterialGroup": "ZFG100000",
+      "Origin": "",
+      "EM": "KOR",
+      "Category": "Other EM",
+      "StorageArea": "Export Non Aircon"
     }
-  ],
-  "Error": ""
+  ]
 }
