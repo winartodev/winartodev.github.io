@@ -3,7 +3,7 @@
         {
             "Material": "10176871",
             "MaterialDescription": "555 GOLD",
-            "StorageBin": "BIK1-T01B2",
+            "StorageBin": "BIK1-N01F2",
             "Batch": "",
             "AvailableStock": "250",
             "BaseUnitOfMeasure": "Tb",
@@ -18,8 +18,8 @@
             "SledOrBbd": "08-31-25",
             "Plant": "ID23",
             "MaterialGroup": "ZFG100000",
-            "Origin": "Europe",
-            "EM": "",
+            "Origin": "",
+            "EM": "Dom",
             "Category": "Other EM",
             "StorageArea": "Export Non Aircon"
         }
