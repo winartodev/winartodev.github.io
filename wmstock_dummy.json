@@ -2,11 +2,11 @@
     "Data": [
         {
             "Material": "10176871",
-            "MaterialDescription": "555 GOLD 20/200 KRE RB KOR KRDF",
+            "MaterialDescription": "555 GOLD",
             "StorageBin": "BIK1-T01B2",
             "Batch": "",
-            "AvailableStock": "240",
-            "BaseUnitOfMeasure": "TH",
+            "AvailableStock": "250",
+            "BaseUnitOfMeasure": "Tb",
             "StockCategory": "",
             "StorageLocation": "A101",
             "StorageType": "BSC",
@@ -18,7 +18,7 @@
             "SledOrBbd": "08-31-25",
             "Plant": "ID23",
             "MaterialGroup": "ZFG100000",
-            "Origin": "Asia",
+            "Origin": "Europe",
             "EM": "",
             "Category": "Other EM",
             "StorageArea": "Export Non Aircon"
