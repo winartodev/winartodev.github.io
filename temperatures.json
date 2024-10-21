@@ -1,0 +1,44 @@
+{
+    "Data": [
+        {
+            "AreaName": "Finish Good",
+            "SubAreas": [
+                {
+                    "Name": "Export Non Aircon",
+                    "Temperature": -25.13,
+                    "Humidity": 20
+                },
+                {
+                    "Name": "Domestic Non Aircon",
+                    "Temperature": -15.3,
+                    "Humidity": 20
+                },
+                {
+                    "Name": "Export Aircon",
+                    "Temperature": -10.21,
+                    "Humidity": 20
+                },
+                {
+                    "Name": "GTR Aircon",
+                    "Temperature": -20.3,
+                    "Humidity": 20
+                }
+            ]
+        },
+        {
+            "AreaName": "WMS",
+            "SubAreas": [
+                {
+                    "Name": "Non Aircon",
+                    "Temperature": 100,
+                    "Humidity": 20
+                },
+                {
+                    "Name": "Aircon",
+                    "Temperature": -10,
+                    "Humidity": 20
+                }
+            ]
+        }
+    ]
+}
