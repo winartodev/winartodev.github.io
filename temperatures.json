@@ -5,23 +5,23 @@
             "SubAreas": [
                 {
                     "Name": "Export Non Aircon",
-                    "Temperature": 43.87,
-                    "Humidity": 32.29
+                    "Temperature": 27,
+                    "Humidity": 75
                 },
                 {
                     "Name": "Domestic Non Aircon",
-                    "Temperature": 5.14,
-                    "Humidity": 52.39
+                    "Temperature": 28,
+                    "Humidity": 74
                 },
                 {
                     "Name": "Export Aircon",
-                    "Temperature": 0.88,
-                    "Humidity": 36.3
+                    "Temperature": 23,
+                    "Humidity": 73
                 },
                 {
                     "Name": "GTR Aircon",
-                    "Temperature": 26.13,
-                    "Humidity": 33.77
+                    "Temperature": 24,
+                    "Humidity": 74
                 }
             ]
         },
@@ -30,13 +30,13 @@
             "SubAreas": [
                 {
                     "Name": "Non Aircon",
-                    "Temperature": 38.96,
-                    "Humidity": 5.88
+                    "Temperature": 27,
+                    "Humidity": 75
                 },
                 {
                     "Name": "Aircon",
-                    "Temperature": 20.29,
-                    "Humidity": 73.33
+                    "Temperature": 24,
+                    "Humidity": 75
                 }
             ]
         }
