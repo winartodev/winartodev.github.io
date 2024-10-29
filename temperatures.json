@@ -1,1 +1,44 @@
-{"Data":[{"AreaName":"Finish Good","SubAreas":[{"Name":"Export Non Aircon","Temperature":25,"Humidity":20},{"Name":"Domestic Non Aircon","Temperature":25,"Humidity":20},{"Name":"Export Aircon","Temperature":22.6,"Humidity":20},{"Name":"GTR Aircon","Temperature":22,"Humidity":20}]},{"AreaName":"WMS","SubAreas":[{"Name":"Non Aircon","Temperature":25.2,"Humidity":20},{"Name":"Aircon","Temperature":22,"Humidity":20}]}]}
+{
+    "Data": [
+        {
+            "AreaName": "Finish Good",
+            "SubAreas": [
+                {
+                    "Name": "Export Non Aircon",
+                    "Temperature": 25,
+                    "Humidity": 74.7
+                },
+                {
+                    "Name": "Domestic Non Aircon",
+                    "Temperature": 25,
+                    "Humidity": 74.7
+                },
+                {
+                    "Name": "Export Aircon",
+                    "Temperature": 22.6,
+                    "Humidity": 69.8
+                },
+                {
+                    "Name": "GTR Aircon",
+                    "Temperature": 22,
+                    "Humidity": 74.4
+                }
+            ]
+        },
+        {
+            "AreaName": "WMS",
+            "SubAreas": [
+                {
+                    "Name": "Non Aircon",
+                    "Temperature": 25.2,
+                    "Humidity": 68.3
+                },
+                {
+                    "Name": "Aircon",
+                    "Temperature": 22,
+                    "Humidity": 73.7
+                }
+            ]
+        }
+    ]
+}
