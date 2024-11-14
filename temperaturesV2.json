@@ -1,1 +1,45 @@
-{"Message":"","Data":[{"AreaName":"Finish Good","SubAreas":[{"Name":"FG EXPORT NON AC","Temperature":25.3,"Humidity":72.5},{"Name":"FG DOMESTIC NON AC","Temperature":25.3,"Humidity":72.5},{"Name":"FG GTR AC","Temperature":23.1,"Humidity":70.2},{"Name":"FG EXPORT AC","Temperature":21.9,"Humidity":67.3}]},{"AreaName":"WMS","SubAreas":[{"Name":"WMS NON AC","Temperature":24.6,"Humidity":73.8},{"Name":"WMS AC","Temperature":22.7,"Humidity":71.4}]}]}
+{
+    "Message": "",
+    "Data": [
+        {
+            "AreaName": "Finish Good",
+            "SubAreas": [
+                {
+                    "Name": "FG EXPORT NON AC",
+                    "Temperature": 25.3,
+                    "Humidity": 72.5
+                },
+                {
+                    "Name": "FG DOMESTIC NON AC",
+                    "Temperature": 25.3,
+                    "Humidity": 72.5
+                },
+                {
+                    "Name": "FG GTR AC",
+                    "Temperature": 22.5,
+                    "Humidity": 72.8
+                },
+                {
+                    "Name": "FG EXPORT AC",
+                    "Temperature": 21.2,
+                    "Humidity": 70.9
+                }
+            ]
+        },
+        {
+            "AreaName": "WMS",
+            "SubAreas": [
+                {
+                    "Name": "WMS NON AC",
+                    "Temperature": 24.6,
+                    "Humidity": 73.8
+                },
+                {
+                    "Name": "WMS AC",
+                    "Temperature": 22.3,
+                    "Humidity": 72.6
+                }
+            ]
+        }
+    ]
+}
